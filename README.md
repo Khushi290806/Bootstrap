@@ -11,5 +11,6 @@ A responsive Bootstrap-based dog breeds showcase page featuring breed cards, ima
 
 ## Tech Stack
 HTML, Bootstrap 5
-How to run:
+
+## How to run:
 Open index.html in browser.
